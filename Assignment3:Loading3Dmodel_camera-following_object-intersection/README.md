@@ -21,3 +21,5 @@ Credits
 This project uses 3D models from Kenney.nl (Mini Market pack).
 
 Built on top of the learnopengl.com framework.
+
+<img width="797" height="633" alt="image" src="https://github.com/user-attachments/assets/b830451f-61b7-4641-8159-822a1df12af9" />
